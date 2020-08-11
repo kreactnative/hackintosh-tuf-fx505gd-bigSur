@@ -284,6 +284,15 @@
 	<dict>
 		<key>Add</key>
 		<dict>
+			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
+			<dict>
+				<key>MaximumBootBeepVolume</key>
+				<data>AA==</data>
+				<key>PinConfigurations</key>
+				<data>AA==</data>
+				<key>layout-id</key>
+				<data>AwAAAA==</data>
+			</dict>
 			<key>PciRoot(0x0)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>AAPL,slot-name</key>
@@ -479,13 +488,6 @@
 				<string>System peripheral</string>
 				<key>model</key>
 				<string>Xeon E3-1200 v5/v6 / E3-1500 v5 / 6th/7th Gen Core Processor Gaussian Mixture Model</string>
-			</dict>
-			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
-			<dict>
-				<key>device-id</key>
-				<data>cKEAAA==</data>
-				<key>layout-id</key>
-				<data>DwAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
